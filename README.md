@@ -14,7 +14,6 @@ I like **building things**, whether it’s **code, music, or something unexpecte
 
 - Teaching my **Bible AI** to learn from user input (but locally, because privacy matters).
 - Refining my **music brand** and YouTube content.
-- Considering upgrading my setup with a **home server** for AI experiments.
 
 ### **Fun Fact**
 
@@ -22,7 +21,7 @@ As a kid, I reverse-engineered **WAV and BMP files** just to figure out how soun
 
 ### **Tech Stack**
 
-- **Languages & Tools:** Kotlin, JavaScript, AI/ML, Android Studio, 3D graphics.
+- **Languages & Tools:** Kotlin, JavaScript, Android Studio, 3D graphics.
 - **Music Gear:** FL Studio Mobile, MIDI keyboards, and whatever sounds good.
 
 ### **Let’s Connect**
