@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## **Hey, I’m Justice!**
 
 I like **building things**, whether it’s **code, music, or something unexpected**. I’ve always had a habit of taking things apart just to see how they work—sometimes putting them back together, sometimes making something completely new.
