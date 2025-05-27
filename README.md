@@ -1,41 +1,50 @@
-## **Hey, I’m Justice!**
+# 👋 Hi, I'm TheJusticeMan
 
-I like **building things**, whether it’s **code, music, or something unexpected**. I’ve always had a habit of taking things apart just to see how they work—sometimes putting them back together, sometimes making something completely new.
+![Profile Banner](https://img.shields.io/badge/Age%20isn't%20a%20parameter%20in%20the%20function%20LIFE.-blueviolet?style=for-the-badge)
 
-#### **What I Do**
+## 👨‍💻 About Me
 
-- **Coding:** Built a **Bible app** with AI-powered cross-referencing. Also made a **custom 3D engine** that renders **4 billion stars** (because why not?).
-- **Music:** I produce **EDM instrumentals**, blending techno with dance vibes. Check out **KKBZ** and **Epic Bitcrush** if you’re into that kind of thing.
-- **Experimenting:** AI, game engines, home servers—whatever gets my curiosity going.
+I'm a **Developer** who knows **vanilla JavaScript backwards and forwards**—from the basics to the intricate quirks, I love working close to the metal (or the browser, really).
 
-### **Current Projects**
+But there's more: I'm also a **writer, carpenter, and actor**. Whether I'm building something with code or with my hands, storytelling and craftsmanship are at the heart of everything I do.
 
-- Teaching my **Bible AI** to learn from user input (but locally, because privacy matters).
-- Refining my **music brand** and YouTube content.
+---
 
-### **Fun Fact**
+## 🚀 Favorite Project
 
-As a kid, I reverse-engineered **WAV and BMP files** just to figure out how sound and images work. No internet, just trial and error.
+### [Touch Grass Bible](#)
+*A down-to-earth reimagining of how to study the Bible with the fastest access to simple tools.*
 
-### **Tech Stack**
+> The name says it all—making meaningful study simple, accessible, and real.
 
-- **Languages & Tools:** Kotlin, JavaScript, Android Studio, 3D graphics.
-- **Music Gear:** FL Studio Mobile, MIDI keyboards, and whatever sounds good.
+---
 
-### **Let’s Connect**
+## 🛠️ Top Skills
 
-[Website](https://imthejusticeman.com) | [Spotify](https://open.spotify.com/artist/7z7Vj4oRbksmiIXgvQqVkq) | [YouTube](https://youtube.com/@thejusticeman)
-<!--
-**TheJusticeMan/TheJusticeMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **JavaScript (ES6+)** – My main playground
+- HTML & CSS – The essentials
+- Project ideation & rapid prototyping
+- Creative writing & storytelling
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍️ Writer & Actor
+
+When I'm not coding, you'll find me writing, acting, or working with wood. My creative journey is rooted in honest stories—whether they're told on stage, in code, or with a hammer and chisel.
+
+---
+
+## 🌐 Connect With Me
+
+- [Facebook](https://www.facebook.com/justicevellacott)
+- [Substack](https://substack.com/@imthejusticeman)
+
+---
+
+## 💡 Motto
+
+> **"Age isn't a parameter in the function LIFE. LIFE matters at every age."**
+
+---
+
+Thanks for stopping by! Feel free to check out my projects, connect, or just say hello.
