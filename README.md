@@ -12,7 +12,7 @@ But there's more: I'm also a **writer, carpenter, and actor**. Whether I'm build
 
 ## 🚀 Favorite Project
 
-### [Touch Grass Bible](#)
+### [Touch Grass Bible](https://thejusticeman.github.io/touch-grass-bible/)
 *A down-to-earth reimagining of how to study the Bible with the fastest access to simple tools.*
 
 > The name says it all—making meaningful study simple, accessible, and real.
